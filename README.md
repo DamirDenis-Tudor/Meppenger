@@ -6,3 +6,4 @@
 ## Arhitecture
 - Server : for each client connected a proccess is associate to it
 - ChatApp : has multiple processes, but the main ones are display_interface and communicate_with_server.
+![Alt text](/details/arhitecture.png "Optional title")
